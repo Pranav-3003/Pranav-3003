@@ -1,4 +1,17 @@
-# Hi there, I'm Pranav Shelke 👋
+# Hi there, I'm Pranav Shelke! 👋
+
+## 🚀 About Me
+
+I’m an Information Technology student who enjoys problem solving and building strong computer science fundamentals.
+
+- 🔐 Exploring **Cybersecurity** 
+- 📊 Learning **Data Science**
+- 🧠 Strong focus on **Data Structures & Algorithms**
+- 💻 Comfortable with **Java, Python**
+- 🏆 Regularly practice on **LeetCode**
+
+I believe strong fundamentals and consistent practice are the key to becoming a better engineer.
+
 
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGUyOW9yYXJxZWFkaDdtNm1uNGRienR2N3AwNjc0cDNoanhqMWh3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="300"/>
